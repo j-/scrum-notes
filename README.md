@@ -1,5 +1,13 @@
 # Scrum notes
 
+## Useful Links
+
+* [The Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
+    - [2016 PDF version](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf)
+* [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary)
+* [Open Assessments](https://www.scrum.org/Assessments/Open-Assessments)
+* [PSM I Quiz](http://mlapshin.com/index.php/psm-quiz/)
+
 ## Scrum Theory
 
 * Founded on *empiricism*
