@@ -74,9 +74,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Scrum does not require having aligned Sprints for multiple teams.
 
 * Can be cancelled by *only* the [Product Owner](#product-owner)
-    - Any completed and Product Backlog Items are reviewed
+    - Any completed and [Product Backlog](#product-backlog) Items are reviewed
     - If part of the work is releasable the Product Owner accepts it
-    - Incomplete Product Backlog Items are re-estimated and put back on the Product Backlog
+    - Incomplete [Product Backlog](#product-backlog) Items are re-estimated and put back on the [Product Backlog](#product-backlog)
     - The Sprint is cancelled only if the [Sprint Goal](#sprint-goal) becomes obsolete
 
 * During the Sprint
@@ -93,9 +93,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Provides guidance to the [Development Team](#development-team) on why it is building the Increment.
 
-* The [Sprint Goal](#sprint-goal) is an objective set for the Sprint that can be met through the implementation of Product Backlog.
+* The [Sprint Goal](#sprint-goal) is an objective set for the Sprint that can be met through the implementation of [Product Backlog](#product-backlog).
 
-* After the [Development Team](#development-team) forecasts the Product Backlog items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a [Sprint Goal](#sprint-goal).
+* After the [Development Team](#development-team) forecasts the [Product Backlog](#product-backlog) items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a [Sprint Goal](#sprint-goal).
 
 * If the [Sprint Goal](#sprint-goal) becomes obsolete the Sprint may be cancelled.
 
@@ -105,7 +105,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Sprint Backlog
 
-* The Product Backlog items selected for this Sprint plus the plan for delivering them.
+* The [Product Backlog](#product-backlog) items selected for this Sprint plus the plan for delivering them.
 
 * Created at the [Sprint Planning](#sprint-planning).
 
@@ -122,34 +122,34 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 ### Product Backlog
 
 * Is an ordered list of everything that might be needed in the product and is the single source of requirements for any changes to be made to the product
-    - Product Backlog Items are ordered with most valuable and clear items at the top
+    - [Product Backlog](#product-backlog) Items are ordered with most valuable and clear items at the top
 
 * Used to describe the upcoming work on the product
-    - All [Development Teams](#development-team) working together on the same product should be using the same Product Backlog
+    - All [Development Teams](#development-team) working together on the same product should be using the same [Product Backlog](#product-backlog)
 
 * Is managed by the Product Owner
-    - The Product Owner is the sole person responsible for the Product Backlog
-    - The Product Owner can delegate some work related to Product Backlog management to the [Development Team](#development-team)
-    - The Product Owner is responsible for the content, availability and ordering of the Product Backlog
+    - The Product Owner is the sole person responsible for the [Product Backlog](#product-backlog)
+    - The Product Owner can delegate some work related to [Product Backlog](#product-backlog) management to the [Development Team](#development-team)
+    - The Product Owner is responsible for the content, availability and ordering of the [Product Backlog](#product-backlog)
 
-* Product Backlog refinement consumes no more than 10% of the capacity of the [Development Team](#development-team).
+* [Product Backlog](#product-backlog) refinement consumes no more than 10% of the capacity of the [Development Team](#development-team).
 
-* Features of a Product Backlog
+* Features of a [Product Backlog](#product-backlog)
     - Never complete
     - Evolves as the product and the environment in which it will be used evolves
     - Dynamic -- constantly changes to identify what the product needs to be appropriate, competitive, and useful
-    - As long as a product exists, its Product Backlog also exists
+    - As long as a product exists, its [Product Backlog](#product-backlog) also exists
 
-* Product Backlog management includes
-    - Clearly expressing Product Backlog items
-    - Ordering the items in the Product Backlog to best achieve goals and missions
+* [Product Backlog](#product-backlog) management includes
+    - Clearly expressing [Product Backlog](#product-backlog) items
+    - Ordering the items in the [Product Backlog](#product-backlog) to best achieve goals and missions
     - Optimizing the value of the work the [Development Team](#development-team) performs
-    - Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the [Scrum Team](#scrum-team) will work on next
-    - Ensuring the [Development Team](#development-team) understands items in the Product Backlog to the level needed
+    - Ensuring that the [Product Backlog](#product-backlog) is visible, transparent, and clear to all, and shows what the [Scrum Team](#scrum-team) will work on next
+    - Ensuring the [Development Team](#development-team) understands items in the [Product Backlog](#product-backlog) to the level needed
 
 ### Increment
 
-* The Increment is the sum of all the Product Backlog Items completed during the Sprint *and* the value of the increments of all previous Sprints.
+* The Increment is the sum of all the [Product Backlog](#product-backlog) Items completed during the Sprint *and* the value of the increments of all previous Sprints.
 
 * Only members of the [Development Team](#development-team) create the Increment.
 
@@ -180,10 +180,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Lead facilitator of key stakeholder involvement
     - Product marketplace expert
 
-* Is responsible for managing the Product Backlog
-    - Maintains the content, availability and ordering of Product Backlog Items
-    - Can delegate some work related to Product Backlog management to the [Development Team](#development-team)
-    - Most valuable and clear items are placed at the top of the Product Backlog
+* Is responsible for managing the [Product Backlog](#product-backlog)
+    - Maintains the content, availability and ordering of [Product Backlog](#product-backlog) Items
+    - Can delegate some work related to [Product Backlog](#product-backlog) management to the [Development Team](#development-team)
+    - Most valuable and clear items are placed at the top of the [Product Backlog](#product-backlog)
 
 * Is responsible for the monitoring of the remaining work towards the Project Goal
     - Tracks total work remaining at least every [Sprint Review](#sprint-review)
@@ -205,7 +205,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * [Product Owner](#product-owner) and [Scrum Master](#scrum-master) may be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
 
-* Responsible for all estimates in the Product Backlog.
+* Responsible for all estimates in the [Product Backlog](#product-backlog).
     - The [Product Owner](#product-owner) may influence the [Development Team](#development-team) by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
 
 * Creates the Increment.
@@ -217,10 +217,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Allowed to change the Sprint Backlog during the sprint
     - Only the [Development Team](#development-team) can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the Sprint, and it belongs solely to the [Development Team](#development-team).
 
-* Can be allowed to make changes to the Product Backlog if delegated by the [Product Owner](#product-owner)
+* Can be allowed to make changes to the [Product Backlog](#product-backlog) if delegated by the [Product Owner](#product-owner)
 
 * [Development Teams](#development-team) have the following characteristics
-    - They are self-organizing. No one (not even the [Scrum Master](#scrum-master)) tells the [Development Team](#development-team) how to turn Product Backlog into Increments of potentially releasable functionality
+    - They are self-organizing. No one (not even the [Scrum Master](#scrum-master)) tells the [Development Team](#development-team) how to turn [Product Backlog](#product-backlog) into Increments of potentially releasable functionality
     - [Development Teams](#development-team) are cross-functional, with all of the skills as a team necessary to create a product Increment
     - Scrum recognizes no titles for [Development Team](#development-team) members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
     - Scrum recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
@@ -252,10 +252,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Responsible for coping with incomplete artifact transparency.
 
 * Serves the [Product Owner](#product-owner) in several ways
-    - Finding techniques for effective Product Backlog management
-    - Helping the [Scrum Team](#scrum-team) understand the need for clear and concise Product Backlog Items
+    - Finding techniques for effective [Product Backlog](#product-backlog) management
+    - Helping the [Scrum Team](#scrum-team) understand the need for clear and concise [Product Backlog](#product-backlog) Items
     - Understanding product planning in an empirical environment
-    - Ensuring the [Product Owner](#product-owner) knows how to arrange the Product Backlog to maximize value
+    - Ensuring the [Product Owner](#product-owner) knows how to arrange the [Product Backlog](#product-backlog) to maximize value
     - Understanding and practicing agility
     - Facilitating Scrum events as requested or needed
 
@@ -293,7 +293,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - What is the size of the Technical Debt and how it could be removed?
 
 * Inputs to the [Sprint Planning](#sprint-planning) are
-    - The Product Backlog
+    - The [Product Backlog](#product-backlog)
     - The latest product Increment
     - Projected capacity of the [Development Team](#development-team) during the Sprint
     - Past performance of the [Development Team](#development-team)
@@ -330,7 +330,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
         + The [Scrum Master](#scrum-master)
     - Key Stakeholders
 
-* The result of the [Sprint Review](#sprint-review) is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint.
+* The result of the [Sprint Review](#sprint-review) is a revised [Product Backlog](#product-backlog) that defines the probable [Product Backlog](#product-backlog) items for the next Sprint.
 
 ### Sprint Retrospective
 
@@ -355,7 +355,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Helps the [Scrum Team](#scrum-team)
     - DoD is used to assess when work is complete on the product Increment
-    - Guides the [Development Team](#development-team) in knowing how many Product Backlog items it can select during a [Sprint Planning](#sprint-planning)
+    - Guides the [Development Team](#development-team) in knowing how many [Product Backlog](#product-backlog) items it can select during a [Sprint Planning](#sprint-planning)
     - DoD ensures artifact transparency
 
 * Accounts for
