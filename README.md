@@ -128,7 +128,7 @@ These notes are heavily based off of Mikhail Lapshin's quiz.
 
 * Only members of the Development Team create the Increment.
 
-## People
+## Scrum Roles
 
 ### Scrum Team
 
