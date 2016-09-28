@@ -111,12 +111,12 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Belongs solely to the [Development Team](#development-team).
 
-* The [Development Team](#development-team) modifies the Sprint Backlog throughout the Sprint
+* The [Development Team](#development-team) modifies the [Sprint Backlog](#sprint-backlog) throughout the Sprint
     - The [Development Team](#development-team) may learn more about the work needed to achieve the [Sprint Goal](#sprint-goal)
-    - As new work is required the [Development Team](#development-team) adds it to the Sprint Backlog
-    - Only the [Development Team](#development-team) may change the Sprint Backlog
+    - As new work is required the [Development Team](#development-team) adds it to the [Sprint Backlog](#sprint-backlog)
+    - Only the [Development Team](#development-team) may change the [Sprint Backlog](#sprint-backlog)
 
-* If an item in the Sprint Backlog cannot be finished by the end of the Sprint it should be renegotiated between the [Product Owner](#product-owner) and [Development Team](#development-team).
+* If an item in the [Sprint Backlog](#sprint-backlog) cannot be finished by the end of the Sprint it should be renegotiated between the [Product Owner](#product-owner) and [Development Team](#development-team).
     - The Sprint is not cancelled in this case
 
 ### Product Backlog
@@ -193,7 +193,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Has the authority to cancel the sprint
     - *Only* the [Product Owner](#product-owner) has this authority
 
-* May be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
+* May be part of the [Development Team](#development-team) if they are also executing the work of the [Sprint Backlog](#sprint-backlog).
 
 * There is only one [Product Owner](#product-owner) in a [Scrum Team](#scrum-team)
     - The [Product Owner](#product-owner) is one person
@@ -203,7 +203,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * The optimal [Development Team](#development-team) size is between 3 and 9 people.
 
-* [Product Owner](#product-owner) and [Scrum Master](#scrum-master) may be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
+* [Product Owner](#product-owner) and [Scrum Master](#scrum-master) may be part of the [Development Team](#development-team) if they are also executing the work of the [Sprint Backlog](#sprint-backlog).
 
 * Responsible for all estimates in the [Product Backlog](#product-backlog).
     - The [Product Owner](#product-owner) may influence the [Development Team](#development-team) by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
@@ -212,10 +212,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
 
-* Responsible for tracking the total work remaining in the Sprint Backlog and the likelihood of achieving the [Sprint Goal](#sprint-goal).
+* Responsible for tracking the total work remaining in the [Sprint Backlog](#sprint-backlog) and the likelihood of achieving the [Sprint Goal](#sprint-goal).
 
-* Allowed to change the Sprint Backlog during the sprint
-    - Only the [Development Team](#development-team) can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the Sprint, and it belongs solely to the [Development Team](#development-team).
+* Allowed to change the [Sprint Backlog](#sprint-backlog) during the sprint
+    - Only the [Development Team](#development-team) can change its [Sprint Backlog](#sprint-backlog) during a Sprint. The [Sprint Backlog](#sprint-backlog) is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the Sprint, and it belongs solely to the [Development Team](#development-team).
 
 * Can be allowed to make changes to the [Product Backlog](#product-backlog) if delegated by the [Product Owner](#product-owner)
 
@@ -233,7 +233,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Coaching the [Development Team](#development-team) in self-organization and cross-functionality
     - Removing impediments to the [Development Team](#development-team)’s progress
 
-* May be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
+* May be part of the [Development Team](#development-team) if they are also executing the work of the [Sprint Backlog](#sprint-backlog).
 
 * Serves the organization by
     - Planning Scrum implementations within the organization
@@ -288,7 +288,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - What can be delivered in the Increment resulting from the upcoming Sprint?
 
 * Does not answer
-    - Who will be responsible for each item in the Sprint Backlog?
+    - Who will be responsible for each item in the [Sprint Backlog](#sprint-backlog)?
     - What new technologies could be used to speed up the [Development Team](#development-team) velocity?
     - What is the size of the Technical Debt and how it could be removed?
 
