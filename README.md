@@ -95,7 +95,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog.
 
-* After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the Scrum Team crafts a Sprint Goal.
+* After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a Sprint Goal.
 
 * If the Sprint Goal becomes obsolete the Sprint may be cancelled.
 
@@ -144,7 +144,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Clearly expressing Product Backlog items
     - Ordering the items in the Product Backlog to best achieve goals and missions
     - Optimizing the value of the work the Development Team performs
-    - Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Scrum Team will work on next
+    - Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the [Scrum Team](#scrum-team) will work on next
     - Ensuring the Development Team understands items in the Product Backlog to the level needed
 
 ### Increment
@@ -157,18 +157,18 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Scrum Team
 
-* The Scrum Team consists of
+* The [Scrum Team](#scrum-team) consists of
     - A Product Owner
     - The Development Team
     - A Scrum Master
 
-* Scrum Teams are self-organizing
+* [Scrum Teams](#scrum-team) are self-organizing
     - Choose how to best accomplish their work rather than being directed by others outside the team
 
-* Scrum Teams are cross-functional
+* [Scrum Teams](#scrum-team) are cross-functional
     - Have all competencies needed to accomplish the work without depending on others not part of the team
 
-* There are three main qualities the Scrum Team is designed to optimize
+* There are three main qualities the [Scrum Team](#scrum-team) is designed to optimize
     - Flexibility
     - Creativity
     - Productivity
@@ -195,7 +195,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * May be part of the Development Team if they are also executing the work of the Sprint Backlog.
 
-* There is only one Product Owner in a Scrum Team
+* There is only one Product Owner in a [Scrum Team](#scrum-team)
     - The Product Owner is one person
     - They may represent the interests of a committee
 
@@ -245,15 +245,15 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Teaches the Development Team to keep the Daily Scrum within the 15 minute time-box
     - Enforces the rule that only Development Team members participate in the Daily Scrum
 
-* Is a servant-leader for the Scrum Team
-    - Helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren't
-    - Helps everyone change these interactions to maximize the value created by the Scrum Team
+* Is a servant-leader for the [Scrum Team](#scrum-team)
+    - Helps those outside the [Scrum Team](#scrum-team) understand which of their interactions with the [Scrum Team](#scrum-team) are helpful and which aren't
+    - Helps everyone change these interactions to maximize the value created by the [Scrum Team](#scrum-team)
 
 * Responsible for coping with incomplete artifact transparency.
 
 * Serves the Product Owner in several ways
     - Finding techniques for effective Product Backlog management
-    - Helping the Scrum Team understand the need for clear and concise Product Backlog Items
+    - Helping the [Scrum Team](#scrum-team) understand the need for clear and concise Product Backlog Items
     - Understanding product planning in an empirical environment
     - Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value
     - Understanding and practicing agility
@@ -261,7 +261,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Non-Scrum Roles
 
-* Only two meetings in which people outside the Scrum Team are allowed to participate
+* Only two meetings in which people outside the [Scrum Team](#scrum-team) are allowed to participate
     - Sprint Planning
         + The Development Team may invite other people to attend the Sprint Planning in order to provide technical or domain advice.
     - Sprint Review
@@ -279,7 +279,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Time-boxed to a maximum of 8 hours for 1 month Sprints
     - For shorter Sprints the event is usually shorter
 
-* Attended by the entire Scrum Team
+* Attended by the entire [Scrum Team](#scrum-team)
     - Product Owner, Development Team and Scrum Master all attend
     - Other people may be invited to attend in order to provide technical or domain advice
 
@@ -324,7 +324,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - For shorter sprints hte event is usually shorter
 
 * Attended by
-    - The Scrum Team
+    - The [Scrum Team](#scrum-team)
         + The Product Owner
         + The Development Team
         + The Scrum Master
@@ -337,34 +337,34 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Time-boxed to a 4 hour meeting for 1 month Sprints
     - For shorter Sprints the event is usually shorter
 
-* The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint.
+* The Sprint Retrospective is an opportunity for the [Scrum Team](#scrum-team) to inspect itself and create a plan for improvements to be enacted during the next Sprint.
 
 * The purpose of the Sprint Retrospective is to
     - Inspect how the last Sprint went with regards to people, relationships, process, and tools
     - Identify and order the major items that went well and potential improvements
-    - Create a plan for implementing improvements to the way the Scrum Team does its work
+    - Create a plan for implementing improvements to the way the [Scrum Team](#scrum-team) does its work
 
-* During each Sprint Retrospective, the Scrum Team plans ways to increase product quality by adapting the definition of "Done" as appropriate.
+* During each Sprint Retrospective, the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
 
 ## Definition of "Done"
 
 * The Development Team is responsible for the creation of the Definition of "Done"
-    - If the Definition of "Done" for an increment is part of the conventions, standards or guidelines of the development organization, all Scrum Teams must follow it as a minimum.
-    - If "done" for an increment is not a convention of the development organization, the Development Team of the Scrum Team must define a Definition of "Done" appropriate for the product.
-    - If there are multiple Scrum Teams working on the system or product release, the development teams on all of the Scrum Teams must mutually define the Definition of "Done."
+    - If the Definition of "Done" for an increment is part of the conventions, standards or guidelines of the development organization, all [Scrum Teams](#scrum-team) must follow it as a minimum.
+    - If "done" for an increment is not a convention of the development organization, the Development Team of the [Scrum Teams](#scrum-team) must define a Definition of "Done" appropriate for the product.
+    - If there are multiple [Scrum Teams](#scrum-team) working on the system or product release, the development teams on all of the [Scrum Teams](#scrum-team) must mutually define the Definition of "Done."
 
-* Helps the Scrum Team
+* Helps the [Scrum Team](#scrum-team)
     - DoD is used to assess when work is complete on the product Increment
     - Guides the Development Team in knowing how many Product Backlog items it can select during a Sprint Planning
     - DoD ensures artifact transparency
 
 * Accounts for
     - Conventions, standards and guidelines of the Organization
-    - Definition of "Done" of other Scrum Teams working on the same Product
+    - Definition of "Done" of other [Scrum Teams](#scrum-team) working on the same Product
 
 * Does not account for
-    - Definition of "Done" of other Scrum Teams working on other products
+    - Definition of "Done" of other [Scrum Teams](#scrum-team) working on other products
     - Experience of the Product Owner
     - Advice of the Scrum Master
 
-* During each Sprint Retrospective, the Scrum Team plans ways to increase product quality by adapting the definition of "Done" as appropriate.
+* During each Sprint Retrospective, the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
