@@ -57,7 +57,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Sprint Planning](#sprint-planning)
     - [Daily Scrum](#daily-scrum)
     - [Sprint Review](#sprint-review)
-    - Sprint Retrospective
+    - [Sprint Retrospective](#sprint-retrospective)
 
 * Burn-down Charts show how much work remains till the end of the Sprint.
 
@@ -337,14 +337,14 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Time-boxed to a 4 hour meeting for 1 month Sprints
     - For shorter Sprints the event is usually shorter
 
-* The Sprint Retrospective is an opportunity for the [Scrum Team](#scrum-team) to inspect itself and create a plan for improvements to be enacted during the next Sprint.
+* The [Sprint Retrospective](#sprint-retrospective) is an opportunity for the [Scrum Team](#scrum-team) to inspect itself and create a plan for improvements to be enacted during the next Sprint.
 
-* The purpose of the Sprint Retrospective is to
+* The purpose of the [Sprint Retrospective](#sprint-retrospective) is to
     - Inspect how the last Sprint went with regards to people, relationships, process, and tools
     - Identify and order the major items that went well and potential improvements
     - Create a plan for implementing improvements to the way the [Scrum Team](#scrum-team) does its work
 
-* During each Sprint Retrospective, the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
+* During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
 
 ## Definition of "Done"
 
@@ -367,4 +367,4 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Experience of the Product Owner
     - Advice of the Scrum Master
 
-* During each Sprint Retrospective, the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
+* During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
