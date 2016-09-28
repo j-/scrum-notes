@@ -5,12 +5,35 @@
 * [The Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
     - [2016 PDF version](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf)
 * [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary)
+* [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments/PSM-I-Assessment)
 * [Open Assessments](https://www.scrum.org/Assessments/Open-Assessments)
 * [Mikhail Lapshin's PSM I Quiz](http://mlapshin.com/index.php/psm-quiz/)
     - [Learning Mode](http://mlapshin.com/index.php/psm-quiz/learning-mode/)
     - [Read Mode](http://mlapshin.com/index.php/psm-quiz/real-mode/)
 
 These notes are heavily based off of Mikhail Lapshin's quiz.
+
+## Assessment Details
+
+From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments/PSM-I-Assessment) page:
+
+* Fee: $150 per attempt
+* Passing score: 85%
+* Time limit: 60 minutes
+* Number of Questions: 80
+* Format: Multiple Choice, Multiple Answer and True/False
+* Difficulty: Intermediate
+* Language: English only
+* [PSM Subject Areas](https://www.scrum.org/Courses/Professional-Scrum-Master/* PSM-Subject-Areas)
+* Required course: None
+* Recommended courses: [Professional Scrum Foundations](https://www.scrum.org/Courses/Professional-Scrum-Foundations) or [Professional Scrum Master](https://www.scrum.org/Courses/Professional-Scrum-Master)
+* Practice Assessment: [Scrum Open](https://www.classmarker.com/online-test/start/?quiz=vek54a6ec10658ef)
+* Passwords have no expiration date, but are valid for one attempt only
+
+**Note**:
+* 80 questions and 85% passing score means **68** or more questions must be answered correctly to pass.
+* 80 questions and 60 minutes means **45 seconds** per question
+* The assessment is online and therefore 'open book'
 
 ## Scrum Theory
 
