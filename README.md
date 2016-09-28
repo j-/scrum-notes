@@ -82,7 +82,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * During the Sprint
     - No changes are made that would endanger the [Sprint Goal](#sprint-goal)
     - Quality goals do not decrease
-    - Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned
+    - Scope may be clarified and re-negotiated between the Product Owner and [Development Team](#development-team) as more is learned
 
 * Development Teams deliver an Increment of Product functionality every Sprint
     - This Increment is usable so a Product Owner may choose to immediately release it
@@ -91,11 +91,11 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Sprint Goal
 
-* Provides guidance to the Development Team on why it is building the Increment.
+* Provides guidance to the [Development Team](#development-team) on why it is building the Increment.
 
 * The [Sprint Goal](#sprint-goal) is an objective set for the Sprint that can be met through the implementation of Product Backlog.
 
-* After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a [Sprint Goal](#sprint-goal).
+* After the [Development Team](#development-team) forecasts the Product Backlog items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a [Sprint Goal](#sprint-goal).
 
 * If the [Sprint Goal](#sprint-goal) becomes obsolete the Sprint may be cancelled.
 
@@ -109,14 +109,14 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Created at the [Sprint Planning](#sprint-planning).
 
-* Belongs solely to the Development Team.
+* Belongs solely to the [Development Team](#development-team).
 
-* The Development Team modifies the Sprint Backlog throughout the Sprint
-    - The Development Team may learn more about the work needed to achieve the [Sprint Goal](#sprint-goal)
-    - As new work is required the Development Team adds it to the Sprint Backlog
-    - Only the Development Team may change the Sprint Backlog
+* The [Development Team](#development-team) modifies the Sprint Backlog throughout the Sprint
+    - The [Development Team](#development-team) may learn more about the work needed to achieve the [Sprint Goal](#sprint-goal)
+    - As new work is required the [Development Team](#development-team) adds it to the Sprint Backlog
+    - Only the [Development Team](#development-team) may change the Sprint Backlog
 
-* If an item in the Sprint Backlog cannot be finished by the end of the Sprint it should be renegotiated between the Product Owner and Development Team.
+* If an item in the Sprint Backlog cannot be finished by the end of the Sprint it should be renegotiated between the Product Owner and [Development Team](#development-team).
     - The Sprint is not cancelled in this case
 
 ### Product Backlog
@@ -125,14 +125,14 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Product Backlog Items are ordered with most valuable and clear items at the top
 
 * Used to describe the upcoming work on the product
-    - All Development Teams working together on the same product should be using the same Product Backlog
+    - All [Development Teams](#development-team) working together on the same product should be using the same Product Backlog
 
 * Is managed by the Product Owner
     - The Product Owner is the sole person responsible for the Product Backlog
-    - The Product Owner can delegate some work related to Product Backlog management to the Development Team
+    - The Product Owner can delegate some work related to Product Backlog management to the [Development Team](#development-team)
     - The Product Owner is responsible for the content, availability and ordering of the Product Backlog
 
-* Product Backlog refinement consumes no more than 10% of the capacity of the Development Team.
+* Product Backlog refinement consumes no more than 10% of the capacity of the [Development Team](#development-team).
 
 * Features of a Product Backlog
     - Never complete
@@ -143,15 +143,15 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Product Backlog management includes
     - Clearly expressing Product Backlog items
     - Ordering the items in the Product Backlog to best achieve goals and missions
-    - Optimizing the value of the work the Development Team performs
+    - Optimizing the value of the work the [Development Team](#development-team) performs
     - Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the [Scrum Team](#scrum-team) will work on next
-    - Ensuring the Development Team understands items in the Product Backlog to the level needed
+    - Ensuring the [Development Team](#development-team) understands items in the Product Backlog to the level needed
 
 ### Increment
 
 * The Increment is the sum of all the Product Backlog Items completed during the Sprint *and* the value of the increments of all previous Sprints.
 
-* Only members of the Development Team create the Increment.
+* Only members of the [Development Team](#development-team) create the Increment.
 
 ## Scrum Roles
 
@@ -159,7 +159,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * The [Scrum Team](#scrum-team) consists of
     - A Product Owner
-    - The Development Team
+    - The [Development Team](#development-team)
     - A Scrum Master
 
 * [Scrum Teams](#scrum-team) are self-organizing
@@ -182,7 +182,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Is responsible for managing the Product Backlog
     - Maintains the content, availability and ordering of Product Backlog Items
-    - Can delegate some work related to Product Backlog management to the Development Team
+    - Can delegate some work related to Product Backlog management to the [Development Team](#development-team)
     - Most valuable and clear items are placed at the top of the Product Backlog
 
 * Is responsible for the monitoring of the remaining work towards the Project Goal
@@ -193,7 +193,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Has the authority to cancel the sprint
     - *Only* the Product Owner has this authority
 
-* May be part of the Development Team if they are also executing the work of the Sprint Backlog.
+* May be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
 
 * There is only one Product Owner in a [Scrum Team](#scrum-team)
     - The Product Owner is one person
@@ -201,39 +201,39 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 #### Development Team
 
-* The optimal Development Team size is between 3 and 9 people.
+* The optimal [Development Team](#development-team) size is between 3 and 9 people.
 
-* Product Owner and Scrum Master may be part of the Development Team if they are also executing the work of the Sprint Backlog.
+* Product Owner and Scrum Master may be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
 
 * Responsible for all estimates in the Product Backlog.
-    - The Product Owner may influence the Development Team by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
+    - The Product Owner may influence the [Development Team](#development-team) by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
 
 * Creates the Increment.
 
-* By the end of the [Sprint Planning](#sprint-planning), the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
+* By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
 
 * Responsible for tracking the total work remaining in the Sprint Backlog and the likelihood of achieving the [Sprint Goal](#sprint-goal).
 
 * Allowed to change the Sprint Backlog during the sprint
-    - Only the Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the Development Team.
+    - Only the [Development Team](#development-team) can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the Sprint, and it belongs solely to the [Development Team](#development-team).
 
 * Can be allowed to make changes to the Product Backlog if delegated by the Product Owner
 
-* Development Teams have the following characteristics
-    - They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality
-    - Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment
-    - Scrum recognizes no titles for Development Team members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
-    - Scrum recognizes no sub-teams in the Development Team, regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
-    - Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole
+* [Development Teams](#development-team) have the following characteristics
+    - They are self-organizing. No one (not even the Scrum Master) tells the [Development Team](#development-team) how to turn Product Backlog into Increments of potentially releasable functionality
+    - [Development Teams](#development-team) are cross-functional, with all of the skills as a team necessary to create a product Increment
+    - Scrum recognizes no titles for [Development Team](#development-team) members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
+    - Scrum recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
+    - Individual [Development Team](#development-team) members may have specialized skills and areas of focus, but accountability belongs to the [Development Team](#development-team) as a whole
 
 #### Scrum Master
 
-* Serves the development team by
-    - Helping the Development Team to create high-value products
-    - Coaching the Development Team in self-organization and cross-functionality
-    - Removing impediments to the Development Team’s progress
+* Serves the [Development Team](#development-team) by
+    - Helping the [Development Team](#development-team) to create high-value products
+    - Coaching the [Development Team](#development-team) in self-organization and cross-functionality
+    - Removing impediments to the [Development Team](#development-team)’s progress
 
-* May be part of the Development Team if they are also executing the work of the Sprint Backlog.
+* May be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
 
 * Serves the organization by
     - Planning Scrum implementations within the organization
@@ -241,9 +241,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization
 
 * Does the following regarding the [Daily Scrum](#daily-scrum)
-    - Ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the [Daily Scrum](#daily-scrum)
-    - Teaches the Development Team to keep the [Daily Scrum](#daily-scrum) within the 15 minute time-box
-    - Enforces the rule that only Development Team members participate in the [Daily Scrum](#daily-scrum)
+    - Ensures that the [Development Team](#development-team) has the meeting, but the [Development Team](#development-team) is responsible for conducting the [Daily Scrum](#daily-scrum)
+    - Teaches the [Development Team](#development-team) to keep the [Daily Scrum](#daily-scrum) within the 15 minute time-box
+    - Enforces the rule that only [Development Team](#development-team) members participate in the [Daily Scrum](#daily-scrum)
 
 * Is a servant-leader for the [Scrum Team](#scrum-team)
     - Helps those outside the [Scrum Team](#scrum-team) understand which of their interactions with the [Scrum Team](#scrum-team) are helpful and which aren't
@@ -263,7 +263,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Only two meetings in which people outside the [Scrum Team](#scrum-team) are allowed to participate
     - [Sprint Planning](#sprint-planning)
-        + The Development Team may invite other people to attend the [Sprint Planning](#sprint-planning) in order to provide technical or domain advice.
+        + The [Development Team](#development-team) may invite other people to attend the [Sprint Planning](#sprint-planning) in order to provide technical or domain advice.
     - [Sprint Review](#sprint-review)
         + The Product Owner is responsible for inviting the Key Stakeholders to the [Sprint Review](#sprint-review) meeting
 
@@ -280,7 +280,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - For shorter Sprints the event is usually shorter
 
 * Attended by the entire [Scrum Team](#scrum-team)
-    - Product Owner, Development Team and Scrum Master all attend
+    - Product Owner, [Development Team](#development-team) and Scrum Master all attend
     - Other people may be invited to attend in order to provide technical or domain advice
 
 * Answers
@@ -289,34 +289,34 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Does not answer
     - Who will be responsible for each item in the Sprint Backlog?
-    - What new technologies could be used to speed up the Development Team velocity?
+    - What new technologies could be used to speed up the [Development Team](#development-team) velocity?
     - What is the size of the Technical Debt and how it could be removed?
 
 * Inputs to the [Sprint Planning](#sprint-planning) are
     - The Product Backlog
     - The latest product Increment
-    - Projected capacity of the Development Team during the Sprint
-    - Past performance of the Development Team
+    - Projected capacity of the [Development Team](#development-team) during the Sprint
+    - Past performance of the [Development Team](#development-team)
 
 * Only work planned for the first days of the Sprint is required to be decomposed to units of one day or less.
-    - The Development Team should be able to explain to the Product Owner and Scrum Master how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
+    - The [Development Team](#development-team) should be able to explain to the Product Owner and Scrum Master how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
 
 ### Daily Scrum
 
 * Time-boxed to 15 minutes
-    - No matter the size of the Development Team
+    - No matter the size of the [Development Team](#development-team)
 
-* Only the Development Team can participate
+* Only the [Development Team](#development-team) can participate
     - Other people could attend but cannot participate
 
 * Cannot be skipped
 
-* Opportunity for the Development Team to synchronize activities and create a plan for the next 24 hours
+* Opportunity for the [Development Team](#development-team) to synchronize activities and create a plan for the next 24 hours
 
-* Three main questions each member of the Development Team should answer
-    - What did I do yesterday that helped the Development Team meet the [Sprint Goal](#sprint-goal)?
-    - What will I do today to help the Development Team meet the [Sprint Goal](#sprint-goal)?
-    - Do I see any impediment that prevents me or the Development Team from meeting the [Sprint Goal](#sprint-goal)?
+* Three main questions each member of the [Development Team](#development-team) should answer
+    - What did I do yesterday that helped the [Development Team](#development-team) meet the [Sprint Goal](#sprint-goal)?
+    - What will I do today to help the [Development Team](#development-team) meet the [Sprint Goal](#sprint-goal)?
+    - Do I see any impediment that prevents me or the [Development Team](#development-team) from meeting the [Sprint Goal](#sprint-goal)?
 
 ### Sprint Review
 
@@ -326,7 +326,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Attended by
     - The [Scrum Team](#scrum-team)
         + The Product Owner
-        + The Development Team
+        + The [Development Team](#development-team)
         + The Scrum Master
     - Key Stakeholders
 
@@ -348,14 +348,14 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ## Definition of "Done"
 
-* The Development Team is responsible for the creation of the Definition of "Done"
+* The [Development Team](#development-team) is responsible for the creation of the Definition of "Done"
     - If the Definition of "Done" for an increment is part of the conventions, standards or guidelines of the development organization, all [Scrum Teams](#scrum-team) must follow it as a minimum.
-    - If "done" for an increment is not a convention of the development organization, the Development Team of the [Scrum Teams](#scrum-team) must define a Definition of "Done" appropriate for the product.
-    - If there are multiple [Scrum Teams](#scrum-team) working on the system or product release, the development teams on all of the [Scrum Teams](#scrum-team) must mutually define the Definition of "Done."
+    - If "done" for an increment is not a convention of the development organization, the [Development Team](#development-team) of the [Scrum Teams](#scrum-team) must define a Definition of "Done" appropriate for the product.
+    - If there are multiple [Scrum Teams](#scrum-team) working on the system or product release, the [Development Teams](#development-team) on all of the [Scrum Teams](#scrum-team) must mutually define the Definition of "Done."
 
 * Helps the [Scrum Team](#scrum-team)
     - DoD is used to assess when work is complete on the product Increment
-    - Guides the Development Team in knowing how many Product Backlog items it can select during a [Sprint Planning](#sprint-planning)
+    - Guides the [Development Team](#development-team) in knowing how many Product Backlog items it can select during a [Sprint Planning](#sprint-planning)
     - DoD ensures artifact transparency
 
 * Accounts for
