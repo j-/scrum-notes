@@ -73,7 +73,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Scrum does not require having aligned Sprints for multiple teams.
 
-* Can be cancelled by *only* the Product Owner
+* Can be cancelled by *only* the [Product Owner](#product-owner)
     - Any completed and Product Backlog Items are reviewed
     - If part of the work is releasable the Product Owner accepts it
     - Incomplete Product Backlog Items are re-estimated and put back on the Product Backlog
@@ -158,7 +158,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 ### Scrum Team
 
 * The [Scrum Team](#scrum-team) consists of
-    - A Product Owner
+    - A [Product Owner](#product-owner)
     - The [Development Team](#development-team)
     - A Scrum Master
 
@@ -175,7 +175,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 #### Product Owner
 
-* Characteristics of the Product Owner
+* Characteristics of the [Product Owner](#product-owner)
     - Product value maximizer
     - Lead facilitator of key stakeholder involvement
     - Product marketplace expert
@@ -191,33 +191,33 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - This information is made transparent to all stakeholders.
 
 * Has the authority to cancel the sprint
-    - *Only* the Product Owner has this authority
+    - *Only* the [Product Owner](#product-owner) has this authority
 
 * May be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
 
-* There is only one Product Owner in a [Scrum Team](#scrum-team)
-    - The Product Owner is one person
+* There is only one [Product Owner](#product-owner) in a [Scrum Team](#scrum-team)
+    - The [Product Owner](#product-owner) is one person
     - They may represent the interests of a committee
 
 #### Development Team
 
 * The optimal [Development Team](#development-team) size is between 3 and 9 people.
 
-* Product Owner and Scrum Master may be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
+* [Product Owner](#product-owner) and Scrum Master may be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
 
 * Responsible for all estimates in the Product Backlog.
-    - The Product Owner may influence the [Development Team](#development-team) by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
+    - The [Product Owner](#product-owner) may influence the [Development Team](#development-team) by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
 
 * Creates the Increment.
 
-* By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
+* By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and Scrum Master how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
 
 * Responsible for tracking the total work remaining in the Sprint Backlog and the likelihood of achieving the [Sprint Goal](#sprint-goal).
 
 * Allowed to change the Sprint Backlog during the sprint
     - Only the [Development Team](#development-team) can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the Sprint, and it belongs solely to the [Development Team](#development-team).
 
-* Can be allowed to make changes to the Product Backlog if delegated by the Product Owner
+* Can be allowed to make changes to the Product Backlog if delegated by the [Product Owner](#product-owner)
 
 * [Development Teams](#development-team) have the following characteristics
     - They are self-organizing. No one (not even the Scrum Master) tells the [Development Team](#development-team) how to turn Product Backlog into Increments of potentially releasable functionality
@@ -251,11 +251,11 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Responsible for coping with incomplete artifact transparency.
 
-* Serves the Product Owner in several ways
+* Serves the [Product Owner](#product-owner) in several ways
     - Finding techniques for effective Product Backlog management
     - Helping the [Scrum Team](#scrum-team) understand the need for clear and concise Product Backlog Items
     - Understanding product planning in an empirical environment
-    - Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value
+    - Ensuring the [Product Owner](#product-owner) knows how to arrange the Product Backlog to maximize value
     - Understanding and practicing agility
     - Facilitating Scrum events as requested or needed
 
@@ -265,7 +265,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Sprint Planning](#sprint-planning)
         + The [Development Team](#development-team) may invite other people to attend the [Sprint Planning](#sprint-planning) in order to provide technical or domain advice.
     - [Sprint Review](#sprint-review)
-        + The Product Owner is responsible for inviting the Key Stakeholders to the [Sprint Review](#sprint-review) meeting
+        + The [Product Owner](#product-owner) is responsible for inviting the Key Stakeholders to the [Sprint Review](#sprint-review) meeting
 
 #### Key Stakeholders
 
@@ -280,7 +280,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - For shorter Sprints the event is usually shorter
 
 * Attended by the entire [Scrum Team](#scrum-team)
-    - Product Owner, [Development Team](#development-team) and Scrum Master all attend
+    - [Product Owner](#product-owner), [Development Team](#development-team) and Scrum Master all attend
     - Other people may be invited to attend in order to provide technical or domain advice
 
 * Answers
@@ -299,7 +299,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Past performance of the [Development Team](#development-team)
 
 * Only work planned for the first days of the Sprint is required to be decomposed to units of one day or less.
-    - The [Development Team](#development-team) should be able to explain to the Product Owner and Scrum Master how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
+    - The [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and Scrum Master how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
 
 ### Daily Scrum
 
@@ -325,7 +325,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Attended by
     - The [Scrum Team](#scrum-team)
-        + The Product Owner
+        + The [Product Owner](#product-owner)
         + The [Development Team](#development-team)
         + The Scrum Master
     - Key Stakeholders
@@ -364,7 +364,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Does not account for
     - Definition of "Done" of other [Scrum Teams](#scrum-team) working on other products
-    - Experience of the Product Owner
+    - Experience of the [Product Owner](#product-owner)
     - Advice of the Scrum Master
 
 * During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
