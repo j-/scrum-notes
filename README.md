@@ -77,10 +77,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Any completed and Product Backlog Items are reviewed
     - If part of the work is releasable the Product Owner accepts it
     - Incomplete Product Backlog Items are re-estimated and put back on the Product Backlog
-    - The Sprint is cancelled only if the Sprint Goal becomes obsolete
+    - The Sprint is cancelled only if the [Sprint Goal](#sprint-goal) becomes obsolete
 
 * During the Sprint
-    - No changes are made that would endanger the Sprint Goal
+    - No changes are made that would endanger the [Sprint Goal](#sprint-goal)
     - Quality goals do not decrease
     - Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned
 
@@ -93,15 +93,15 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Provides guidance to the Development Team on why it is building the Increment.
 
-* The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog.
+* The [Sprint Goal](#sprint-goal) is an objective set for the Sprint that can be met through the implementation of Product Backlog.
 
-* After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a Sprint Goal.
+* After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a [Sprint Goal](#sprint-goal).
 
-* If the Sprint Goal becomes obsolete the Sprint may be cancelled.
+* If the [Sprint Goal](#sprint-goal) becomes obsolete the Sprint may be cancelled.
 
 ## Scrum Artifacts
 
-* Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
+* Scrum users must frequently inspect Scrum artifacts and progress toward a [Sprint Goal](#sprint-goal) to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
 
 ### Sprint Backlog
 
@@ -112,7 +112,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Belongs solely to the Development Team.
 
 * The Development Team modifies the Sprint Backlog throughout the Sprint
-    - The Development Team may learn more about the work needed to achieve the Sprint Goal
+    - The Development Team may learn more about the work needed to achieve the [Sprint Goal](#sprint-goal)
     - As new work is required the Development Team adds it to the Sprint Backlog
     - Only the Development Team may change the Sprint Backlog
 
@@ -210,9 +210,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Creates the Increment.
 
-* By the end of the [Sprint Planning](#sprint-planning), the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
+* By the end of the [Sprint Planning](#sprint-planning), the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
 
-* Responsible for tracking the total work remaining in the Sprint Backlog and the likelihood of achieving the Sprint Goal.
+* Responsible for tracking the total work remaining in the Sprint Backlog and the likelihood of achieving the [Sprint Goal](#sprint-goal).
 
 * Allowed to change the Sprint Backlog during the sprint
     - Only the Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the Development Team.
@@ -299,7 +299,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Past performance of the Development Team
 
 * Only work planned for the first days of the Sprint is required to be decomposed to units of one day or less.
-    - The Development Team should be able to explain to the Product Owner and Scrum Master how it indends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment
+    - The Development Team should be able to explain to the Product Owner and Scrum Master how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
 
 ### Daily Scrum
 
@@ -314,9 +314,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Opportunity for the Development Team to synchronize activities and create a plan for the next 24 hours
 
 * Three main questions each member of the Development Team should answer
-    - What did I do yesterday that helped the Development Team meet the Sprint Goal?
-    - What will I do today to help the Development Team meet the Sprint Goal?
-    - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+    - What did I do yesterday that helped the Development Team meet the [Sprint Goal](#sprint-goal)?
+    - What will I do today to help the Development Team meet the [Sprint Goal](#sprint-goal)?
+    - Do I see any impediment that prevents me or the Development Team from meeting the [Sprint Goal](#sprint-goal)?
 
 ### Sprint Review
 
