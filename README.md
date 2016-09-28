@@ -17,11 +17,11 @@ These notes are heavily based off of Mikhail Lapshin's quiz.
 * Founded on *empiricism*
 
 * Comprised of
-    - Scrum Teams
-    - Roles
+    - [Scrum Teams](#scrum-team)
+    - [Roles](#scrum-roles)
     - Rules
-    - Events
-    - Artifacts
+    - [Events](#scrum-events)
+    - [Artifacts](#scrum-artifacts)
 
 * Pillars that uphold Scrum
     - Transparency
