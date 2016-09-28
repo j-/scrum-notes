@@ -54,7 +54,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Adaption
 
 * Opportunities to Inspect and Adapt
-    - Sprint Planning
+    - [Sprint Planning](#sprint-planning)
     - Daily Scrum
     - Sprint Review
     - Sprint Retrospective
@@ -107,7 +107,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * The Product Backlog items selected for this Sprint plus the plan for delivering them.
 
-* Created at the Sprint Planning.
+* Created at the [Sprint Planning](#sprint-planning).
 
 * Belongs solely to the Development Team.
 
@@ -210,7 +210,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Creates the Increment.
 
-* By the end of the Sprint Planning, the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
+* By the end of the [Sprint Planning](#sprint-planning), the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
 
 * Responsible for tracking the total work remaining in the Sprint Backlog and the likelihood of achieving the Sprint Goal.
 
@@ -262,8 +262,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 ### Non-Scrum Roles
 
 * Only two meetings in which people outside the [Scrum Team](#scrum-team) are allowed to participate
-    - Sprint Planning
-        + The Development Team may invite other people to attend the Sprint Planning in order to provide technical or domain advice.
+    - [Sprint Planning](#sprint-planning)
+        + The Development Team may invite other people to attend the [Sprint Planning](#sprint-planning) in order to provide technical or domain advice.
     - Sprint Review
         + The Product Owner is responsible for inviting the Key Stakeholders to the Sprint Review meeting
 
@@ -292,7 +292,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - What new technologies could be used to speed up the Development Team velocity?
     - What is the size of the Technical Debt and how it could be removed?
 
-* Inputs to the Sprint Planning are
+* Inputs to the [Sprint Planning](#sprint-planning) are
     - The Product Backlog
     - The latest product Increment
     - Projected capacity of the Development Team during the Sprint
@@ -355,7 +355,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Helps the [Scrum Team](#scrum-team)
     - DoD is used to assess when work is complete on the product Increment
-    - Guides the Development Team in knowing how many Product Backlog items it can select during a Sprint Planning
+    - Guides the Development Team in knowing how many Product Backlog items it can select during a [Sprint Planning](#sprint-planning)
     - DoD ensures artifact transparency
 
 * Accounts for
