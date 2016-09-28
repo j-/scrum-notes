@@ -59,7 +59,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Sprint Review](#sprint-review)
     - [Sprint Retrospective](#sprint-retrospective)
 
-* Burn-down Charts show how much work remains till the end of the Sprint.
+* Burn-down Charts show how much work remains till the end of the [Sprint](#sprint).
 
 * Cone of Uncertainty shows how much is known about the Product over time
 
@@ -71,33 +71,33 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Sprint
 
-* Scrum does not require having aligned Sprints for multiple teams.
+* Scrum does not require having aligned [Sprints](#sprint) for multiple teams.
 
 * Can be cancelled by *only* the [Product Owner](#product-owner)
     - Any completed and [Product Backlog](#product-backlog) Items are reviewed
     - If part of the work is releasable the [Product Owner](#product-owner) accepts it
     - Incomplete [Product Backlog](#product-backlog) Items are re-estimated and put back on the [Product Backlog](#product-backlog)
-    - The Sprint is cancelled only if the [Sprint Goal](#sprint-goal) becomes obsolete
+    - The [Sprint](#sprint) is cancelled only if the [Sprint Goal](#sprint-goal) becomes obsolete
 
-* During the Sprint
+* During the [Sprint](#sprint)
     - No changes are made that would endanger the [Sprint Goal](#sprint-goal)
     - Quality goals do not decrease
     - Scope may be clarified and re-negotiated between the [Product Owner](#product-owner) and [Development Team](#development-team) as more is learned
 
-* Development Teams deliver an Increment of Product functionality every Sprint
+* Development Teams deliver an Increment of Product functionality every [Sprint](#sprint)
     - This Increment is usable so a [Product Owner](#product-owner) may choose to immediately release it
     - Each Increment only contains "Done" functionality that could be released immediately
-    - It is not normal to have a "hardening" Sprint to remove technical debt and prepare the Product for upcoming release
+    - It is not normal to have a "hardening" [Sprint](#sprint) to remove technical debt and prepare the Product for upcoming release
 
 ### Sprint Goal
 
 * Provides guidance to the [Development Team](#development-team) on why it is building the Increment.
 
-* The [Sprint Goal](#sprint-goal) is an objective set for the Sprint that can be met through the implementation of [Product Backlog](#product-backlog).
+* The [Sprint Goal](#sprint-goal) is an objective set for the [Sprint](#sprint) that can be met through the implementation of [Product Backlog](#product-backlog).
 
-* After the [Development Team](#development-team) forecasts the [Product Backlog](#product-backlog) items it will deliver in the Sprint, the [Scrum Team](#scrum-team) crafts a [Sprint Goal](#sprint-goal).
+* After the [Development Team](#development-team) forecasts the [Product Backlog](#product-backlog) items it will deliver in the [Sprint](#sprint), the [Scrum Team](#scrum-team) crafts a [Sprint Goal](#sprint-goal).
 
-* If the [Sprint Goal](#sprint-goal) becomes obsolete the Sprint may be cancelled.
+* If the [Sprint Goal](#sprint-goal) becomes obsolete the [Sprint](#sprint) may be cancelled.
 
 ## Scrum Artifacts
 
@@ -105,19 +105,19 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Sprint Backlog
 
-* The [Product Backlog](#product-backlog) items selected for this Sprint plus the plan for delivering them.
+* The [Product Backlog](#product-backlog) items selected for this [Sprint](#sprint) plus the plan for delivering them.
 
 * Created at the [Sprint Planning](#sprint-planning).
 
 * Belongs solely to the [Development Team](#development-team).
 
-* The [Development Team](#development-team) modifies the [Sprint Backlog](#sprint-backlog) throughout the Sprint
+* The [Development Team](#development-team) modifies the [Sprint Backlog](#sprint-backlog) throughout the [Sprint](#sprint)
     - The [Development Team](#development-team) may learn more about the work needed to achieve the [Sprint Goal](#sprint-goal)
     - As new work is required the [Development Team](#development-team) adds it to the [Sprint Backlog](#sprint-backlog)
     - Only the [Development Team](#development-team) may change the [Sprint Backlog](#sprint-backlog)
 
-* If an item in the [Sprint Backlog](#sprint-backlog) cannot be finished by the end of the Sprint it should be renegotiated between the [Product Owner](#product-owner) and [Development Team](#development-team).
-    - The Sprint is not cancelled in this case
+* If an item in the [Sprint Backlog](#sprint-backlog) cannot be finished by the end of the [Sprint](#sprint) it should be renegotiated between the [Product Owner](#product-owner) and [Development Team](#development-team).
+    - The [Sprint](#sprint) is not cancelled in this case
 
 ### Product Backlog
 
@@ -149,7 +149,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Increment
 
-* The Increment is the sum of all the [Product Backlog](#product-backlog) Items completed during the Sprint *and* the value of the increments of all previous Sprints.
+* The Increment is the sum of all the [Product Backlog](#product-backlog) Items completed during the [Sprint](#sprint) *and* the value of the increments of all previous [Sprints](#sprint).
 
 * Only members of the [Development Team](#development-team) create the Increment.
 
@@ -190,7 +190,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Compares this amount with work remaining at previous [Sprint Reviews](#sprint-review) to assess progress toward completing projected work by the desired time for the goal
     - This information is made transparent to all stakeholders.
 
-* Has the authority to cancel the sprint
+* Has the authority to cancel the [Sprint](#sprint)
     - *Only* the [Product Owner](#product-owner) has this authority
 
 * May be part of the [Development Team](#development-team) if they are also executing the work of the [Sprint Backlog](#sprint-backlog).
@@ -215,7 +215,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Responsible for tracking the total work remaining in the [Sprint Backlog](#sprint-backlog) and the likelihood of achieving the [Sprint Goal](#sprint-goal).
 
 * Allowed to change the [Sprint Backlog](#sprint-backlog) during the sprint
-    - Only the [Development Team](#development-team) can change its [Sprint Backlog](#sprint-backlog) during a Sprint. The [Sprint Backlog](#sprint-backlog) is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the Sprint, and it belongs solely to the [Development Team](#development-team).
+    - Only the [Development Team](#development-team) can change its [Sprint Backlog](#sprint-backlog) during a [Sprint](#sprint). The [Sprint Backlog](#sprint-backlog) is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the [Sprint](#sprint), and it belongs solely to the [Development Team](#development-team).
 
 * Can be allowed to make changes to the [Product Backlog](#product-backlog) if delegated by the [Product Owner](#product-owner)
 
@@ -276,8 +276,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Sprint Planning
 
-* Time-boxed to a maximum of 8 hours for 1 month Sprints
-    - For shorter Sprints the event is usually shorter
+* Time-boxed to a maximum of 8 hours for 1 month [Sprints](#sprint)
+    - For shorter [Sprints](#sprint) the event is usually shorter
 
 * Attended by the entire [Scrum Team](#scrum-team)
     - [Product Owner](#product-owner), [Development Team](#development-team) and [Scrum Master](#scrum-master) all attend
@@ -285,7 +285,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Answers
     - How will the work needed to deliver the Increment be achieved?
-    - What can be delivered in the Increment resulting from the upcoming Sprint?
+    - What can be delivered in the Increment resulting from the upcoming [Sprint](#sprint)?
 
 * Does not answer
     - Who will be responsible for each item in the [Sprint Backlog](#sprint-backlog)?
@@ -295,10 +295,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Inputs to the [Sprint Planning](#sprint-planning) are
     - The [Product Backlog](#product-backlog)
     - The latest product Increment
-    - Projected capacity of the [Development Team](#development-team) during the Sprint
+    - Projected capacity of the [Development Team](#development-team) during the [Sprint](#sprint)
     - Past performance of the [Development Team](#development-team)
 
-* Only work planned for the first days of the Sprint is required to be decomposed to units of one day or less.
+* Only work planned for the first days of the [Sprint](#sprint) is required to be decomposed to units of one day or less.
     - The [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
 
 ### Daily Scrum
@@ -320,8 +320,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Sprint Review
 
-* Time-boxed to a 4 hour meeting for 1 month Sprints
-    - For shorter sprints hte event is usually shorter
+* Time-boxed to a 4 hour meeting for 1 month [Sprints](#sprint)
+    - For shorter [Sprints](#sprint) the event is usually shorter
 
 * Attended by
     - The [Scrum Team](#scrum-team)
@@ -330,17 +330,17 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
         + The [Scrum Master](#scrum-master)
     - Key Stakeholders
 
-* The result of the [Sprint Review](#sprint-review) is a revised [Product Backlog](#product-backlog) that defines the probable [Product Backlog](#product-backlog) items for the next Sprint.
+* The result of the [Sprint Review](#sprint-review) is a revised [Product Backlog](#product-backlog) that defines the probable [Product Backlog](#product-backlog) items for the next [Sprint](#sprint).
 
 ### Sprint Retrospective
 
-* Time-boxed to a 4 hour meeting for 1 month Sprints
-    - For shorter Sprints the event is usually shorter
+* Time-boxed to a 4 hour meeting for 1 month [Sprints](#sprint)
+    - For shorter [Sprints](#sprint) the event is usually shorter
 
-* The [Sprint Retrospective](#sprint-retrospective) is an opportunity for the [Scrum Team](#scrum-team) to inspect itself and create a plan for improvements to be enacted during the next Sprint.
+* The [Sprint Retrospective](#sprint-retrospective) is an opportunity for the [Scrum Team](#scrum-team) to inspect itself and create a plan for improvements to be enacted during the next [Sprint](#sprint).
 
 * The purpose of the [Sprint Retrospective](#sprint-retrospective) is to
-    - Inspect how the last Sprint went with regards to people, relationships, process, and tools
+    - Inspect how the last [Sprint](#sprint) went with regards to people, relationships, process, and tools
     - Identify and order the major items that went well and potential improvements
     - Create a plan for implementing improvements to the way the [Scrum Team](#scrum-team) does its work
 
