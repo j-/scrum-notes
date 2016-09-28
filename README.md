@@ -56,7 +56,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Opportunities to Inspect and Adapt
     - [Sprint Planning](#sprint-planning)
     - [Daily Scrum](#daily-scrum)
-    - Sprint Review
+    - [Sprint Review](#sprint-review)
     - Sprint Retrospective
 
 * Burn-down Charts show how much work remains till the end of the Sprint.
@@ -186,8 +186,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Most valuable and clear items are placed at the top of the Product Backlog
 
 * Is responsible for the monitoring of the remaining work towards the Project Goal
-    - Tracks total work remaining at least every Sprint Review
-    - Compares this amount with work remaining at previous Sprint Reviews to assess progress toward completing projected work by the desired time for the goal
+    - Tracks total work remaining at least every [Sprint Review](#sprint-review)
+    - Compares this amount with work remaining at previous [Sprint Reviews](#sprint-review) to assess progress toward completing projected work by the desired time for the goal
     - This information is made transparent to all stakeholders.
 
 * Has the authority to cancel the sprint
@@ -264,12 +264,12 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Only two meetings in which people outside the [Scrum Team](#scrum-team) are allowed to participate
     - [Sprint Planning](#sprint-planning)
         + The Development Team may invite other people to attend the [Sprint Planning](#sprint-planning) in order to provide technical or domain advice.
-    - Sprint Review
-        + The Product Owner is responsible for inviting the Key Stakeholders to the Sprint Review meeting
+    - [Sprint Review](#sprint-review)
+        + The Product Owner is responsible for inviting the Key Stakeholders to the [Sprint Review](#sprint-review) meeting
 
 #### Key Stakeholders
 
-* Allowed to participate in the Sprint Review meeting
+* Allowed to participate in the [Sprint Review](#sprint-review) meeting
     - Not allowed to participate in any other Scrum events
 
 ## Scrum Events
@@ -330,7 +330,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
         + The Scrum Master
     - Key Stakeholders
 
-* The result of the sprint review is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint.
+* The result of the [Sprint Review](#sprint-review) is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint.
 
 ### Sprint Retrospective
 
