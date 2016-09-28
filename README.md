@@ -160,7 +160,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * The [Scrum Team](#scrum-team) consists of
     - A [Product Owner](#product-owner)
     - The [Development Team](#development-team)
-    - A Scrum Master
+    - A [Scrum Master](#scrum-master)
 
 * [Scrum Teams](#scrum-team) are self-organizing
     - Choose how to best accomplish their work rather than being directed by others outside the team
@@ -203,14 +203,14 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * The optimal [Development Team](#development-team) size is between 3 and 9 people.
 
-* [Product Owner](#product-owner) and Scrum Master may be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
+* [Product Owner](#product-owner) and [Scrum Master](#scrum-master) may be part of the [Development Team](#development-team) if they are also executing the work of the Sprint Backlog.
 
 * Responsible for all estimates in the Product Backlog.
     - The [Product Owner](#product-owner) may influence the [Development Team](#development-team) by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
 
 * Creates the Increment.
 
-* By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and Scrum Master how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
+* By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
 
 * Responsible for tracking the total work remaining in the Sprint Backlog and the likelihood of achieving the [Sprint Goal](#sprint-goal).
 
@@ -220,7 +220,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Can be allowed to make changes to the Product Backlog if delegated by the [Product Owner](#product-owner)
 
 * [Development Teams](#development-team) have the following characteristics
-    - They are self-organizing. No one (not even the Scrum Master) tells the [Development Team](#development-team) how to turn Product Backlog into Increments of potentially releasable functionality
+    - They are self-organizing. No one (not even the [Scrum Master](#scrum-master)) tells the [Development Team](#development-team) how to turn Product Backlog into Increments of potentially releasable functionality
     - [Development Teams](#development-team) are cross-functional, with all of the skills as a team necessary to create a product Increment
     - Scrum recognizes no titles for [Development Team](#development-team) members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
     - Scrum recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
@@ -238,7 +238,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Serves the organization by
     - Planning Scrum implementations within the organization
     - Leading and coaching the organization in its Scrum adoption
-    - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization
+    - Working with other [Scrum Masters](#scrum-master) to increase the effectiveness of the application of Scrum in the organization
 
 * Does the following regarding the [Daily Scrum](#daily-scrum)
     - Ensures that the [Development Team](#development-team) has the meeting, but the [Development Team](#development-team) is responsible for conducting the [Daily Scrum](#daily-scrum)
@@ -280,7 +280,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - For shorter Sprints the event is usually shorter
 
 * Attended by the entire [Scrum Team](#scrum-team)
-    - [Product Owner](#product-owner), [Development Team](#development-team) and Scrum Master all attend
+    - [Product Owner](#product-owner), [Development Team](#development-team) and [Scrum Master](#scrum-master) all attend
     - Other people may be invited to attend in order to provide technical or domain advice
 
 * Answers
@@ -299,7 +299,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Past performance of the [Development Team](#development-team)
 
 * Only work planned for the first days of the Sprint is required to be decomposed to units of one day or less.
-    - The [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and Scrum Master how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
+    - The [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
 
 ### Daily Scrum
 
@@ -327,7 +327,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - The [Scrum Team](#scrum-team)
         + The [Product Owner](#product-owner)
         + The [Development Team](#development-team)
-        + The Scrum Master
+        + The [Scrum Master](#scrum-master)
     - Key Stakeholders
 
 * The result of the [Sprint Review](#sprint-review) is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint.
@@ -365,6 +365,6 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Does not account for
     - Definition of "Done" of other [Scrum Teams](#scrum-team) working on other products
     - Experience of the [Product Owner](#product-owner)
-    - Advice of the Scrum Master
+    - Advice of the [Scrum Master](#scrum-master)
 
 * During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
