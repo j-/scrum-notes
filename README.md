@@ -75,17 +75,17 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Can be cancelled by *only* the [Product Owner](#product-owner)
     - Any completed and [Product Backlog](#product-backlog) Items are reviewed
-    - If part of the work is releasable the Product Owner accepts it
+    - If part of the work is releasable the [Product Owner](#product-owner) accepts it
     - Incomplete [Product Backlog](#product-backlog) Items are re-estimated and put back on the [Product Backlog](#product-backlog)
     - The Sprint is cancelled only if the [Sprint Goal](#sprint-goal) becomes obsolete
 
 * During the Sprint
     - No changes are made that would endanger the [Sprint Goal](#sprint-goal)
     - Quality goals do not decrease
-    - Scope may be clarified and re-negotiated between the Product Owner and [Development Team](#development-team) as more is learned
+    - Scope may be clarified and re-negotiated between the [Product Owner](#product-owner) and [Development Team](#development-team) as more is learned
 
 * Development Teams deliver an Increment of Product functionality every Sprint
-    - This Increment is usable so a Product Owner may choose to immediately release it
+    - This Increment is usable so a [Product Owner](#product-owner) may choose to immediately release it
     - Each Increment only contains "Done" functionality that could be released immediately
     - It is not normal to have a "hardening" Sprint to remove technical debt and prepare the Product for upcoming release
 
@@ -116,7 +116,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - As new work is required the [Development Team](#development-team) adds it to the Sprint Backlog
     - Only the [Development Team](#development-team) may change the Sprint Backlog
 
-* If an item in the Sprint Backlog cannot be finished by the end of the Sprint it should be renegotiated between the Product Owner and [Development Team](#development-team).
+* If an item in the Sprint Backlog cannot be finished by the end of the Sprint it should be renegotiated between the [Product Owner](#product-owner) and [Development Team](#development-team).
     - The Sprint is not cancelled in this case
 
 ### Product Backlog
@@ -127,10 +127,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Used to describe the upcoming work on the product
     - All [Development Teams](#development-team) working together on the same product should be using the same [Product Backlog](#product-backlog)
 
-* Is managed by the Product Owner
-    - The Product Owner is the sole person responsible for the [Product Backlog](#product-backlog)
-    - The Product Owner can delegate some work related to [Product Backlog](#product-backlog) management to the [Development Team](#development-team)
-    - The Product Owner is responsible for the content, availability and ordering of the [Product Backlog](#product-backlog)
+* Is managed by the [Product Owner](#product-owner)
+    - The [Product Owner](#product-owner) is the sole person responsible for the [Product Backlog](#product-backlog)
+    - The [Product Owner](#product-owner) can delegate some work related to [Product Backlog](#product-backlog) management to the [Development Team](#development-team)
+    - The [Product Owner](#product-owner) is responsible for the content, availability and ordering of the [Product Backlog](#product-backlog)
 
 * [Product Backlog](#product-backlog) refinement consumes no more than 10% of the capacity of the [Development Team](#development-team).
 
