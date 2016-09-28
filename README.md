@@ -55,7 +55,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Opportunities to Inspect and Adapt
     - [Sprint Planning](#sprint-planning)
-    - Daily Scrum
+    - [Daily Scrum](#daily-scrum)
     - Sprint Review
     - Sprint Retrospective
 
@@ -240,10 +240,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Leading and coaching the organization in its Scrum adoption
     - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization
 
-* Does the following regarding the Daily Scrum
-    - Ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the Daily Scrum
-    - Teaches the Development Team to keep the Daily Scrum within the 15 minute time-box
-    - Enforces the rule that only Development Team members participate in the Daily Scrum
+* Does the following regarding the [Daily Scrum](#daily-scrum)
+    - Ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the [Daily Scrum](#daily-scrum)
+    - Teaches the Development Team to keep the [Daily Scrum](#daily-scrum) within the 15 minute time-box
+    - Enforces the rule that only Development Team members participate in the [Daily Scrum](#daily-scrum)
 
 * Is a servant-leader for the [Scrum Team](#scrum-team)
     - Helps those outside the [Scrum Team](#scrum-team) understand which of their interactions with the [Scrum Team](#scrum-team) are helpful and which aren't
