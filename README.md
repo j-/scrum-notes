@@ -14,6 +14,8 @@ These notes are heavily based off of Mikhail Lapshin's quiz.
 
 ## Scrum Theory
 
+### Scrum
+
 * Founded on *empiricism*
 
 * Comprised of
