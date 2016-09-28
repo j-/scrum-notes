@@ -6,7 +6,11 @@
     - [2016 PDF version](http://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-US.pdf)
 * [Scrum Glossary](https://www.scrum.org/Resources/Scrum-Glossary)
 * [Open Assessments](https://www.scrum.org/Assessments/Open-Assessments)
-* [PSM I Quiz](http://mlapshin.com/index.php/psm-quiz/)
+* [Mikhail Lapshin's PSM I Quiz](http://mlapshin.com/index.php/psm-quiz/)
+    - [Learning Mode](http://mlapshin.com/index.php/psm-quiz/learning-mode/)
+    - [Read Mode](http://mlapshin.com/index.php/psm-quiz/real-mode/)
+
+These notes are heavily based off of Mikhail Lapshin's quiz.
 
 ## Scrum Theory
 
