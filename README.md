@@ -122,6 +122,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Each [Increment](#increment) only contains "Done" functionality that could be released immediately
     - It is not normal to have a "hardening" [Sprint](#sprint) to remove technical debt and prepare the Product for upcoming release
 
+* The next [Sprint](#sprint) begins immediately after the conclusion of the previous [Sprint](#sprint).
+
 [▲ Back to top](#table-of-contents)
 
 ### [Sprint Goal](#sprint-goal)
