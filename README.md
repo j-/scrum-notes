@@ -84,14 +84,14 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Quality goals do not decrease
     - Scope may be clarified and re-negotiated between the [Product Owner](#product-owner) and [Development Team](#development-team) as more is learned
 
-* Development Teams deliver an Increment of Product functionality every [Sprint](#sprint)
-    - This Increment is usable so a [Product Owner](#product-owner) may choose to immediately release it
-    - Each Increment only contains "Done" functionality that could be released immediately
+* Development Teams deliver an [Increment](#increment) of Product functionality every [Sprint](#sprint)
+    - This [Increment](#increment) is usable so a [Product Owner](#product-owner) may choose to immediately release it
+    - Each [Increment](#increment) only contains "Done" functionality that could be released immediately
     - It is not normal to have a "hardening" [Sprint](#sprint) to remove technical debt and prepare the Product for upcoming release
 
 ### Sprint Goal
 
-* Provides guidance to the [Development Team](#development-team) on why it is building the Increment.
+* Provides guidance to the [Development Team](#development-team) on why it is building the [Increment](#increment).
 
 * The [Sprint Goal](#sprint-goal) is an objective set for the [Sprint](#sprint) that can be met through the implementation of [Product Backlog](#product-backlog).
 
@@ -149,9 +149,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Increment
 
-* The Increment is the sum of all the [Product Backlog](#product-backlog) Items completed during the [Sprint](#sprint) *and* the value of the increments of all previous [Sprints](#sprint).
+* The [Increment](#increment) is the sum of all the [Product Backlog](#product-backlog) Items completed during the [Sprint](#sprint) *and* the value of the increments of all previous [Sprints](#sprint).
 
-* Only members of the [Development Team](#development-team) create the Increment.
+* Only members of the [Development Team](#development-team) create the [Increment](#increment).
 
 ## Scrum Roles
 
@@ -208,9 +208,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Responsible for all estimates in the [Product Backlog](#product-backlog).
     - The [Product Owner](#product-owner) may influence the [Development Team](#development-team) by helping it understand and select trade-offs, but the people who will perform the work make the final estimate.
 
-* Creates the Increment.
+* Creates the [Increment](#increment).
 
-* By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment.
+* By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated [Increment](#increment).
 
 * Responsible for tracking the total work remaining in the [Sprint Backlog](#sprint-backlog) and the likelihood of achieving the [Sprint Goal](#sprint-goal).
 
@@ -220,8 +220,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Can be allowed to make changes to the [Product Backlog](#product-backlog) if delegated by the [Product Owner](#product-owner)
 
 * [Development Teams](#development-team) have the following characteristics
-    - They are self-organizing. No one (not even the [Scrum Master](#scrum-master)) tells the [Development Team](#development-team) how to turn [Product Backlog](#product-backlog) into Increments of potentially releasable functionality
-    - [Development Teams](#development-team) are cross-functional, with all of the skills as a team necessary to create a product Increment
+    - They are self-organizing. No one (not even the [Scrum Master](#scrum-master)) tells the [Development Team](#development-team) how to turn [Product Backlog](#product-backlog) into [Increments](#increment) of potentially releasable functionality
+    - [Development Teams](#development-team) are cross-functional, with all of the skills as a team necessary to create a product [Increment](#increment)
     - Scrum recognizes no titles for [Development Team](#development-team) members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
     - Scrum recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
     - Individual [Development Team](#development-team) members may have specialized skills and areas of focus, but accountability belongs to the [Development Team](#development-team) as a whole
@@ -284,8 +284,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Other people may be invited to attend in order to provide technical or domain advice
 
 * Answers
-    - How will the work needed to deliver the Increment be achieved?
-    - What can be delivered in the Increment resulting from the upcoming [Sprint](#sprint)?
+    - How will the work needed to deliver the [Increment](#increment) be achieved?
+    - What can be delivered in the [Increment](#increment) resulting from the upcoming [Sprint](#sprint)?
 
 * Does not answer
     - Who will be responsible for each item in the [Sprint Backlog](#sprint-backlog)?
@@ -294,12 +294,12 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Inputs to the [Sprint Planning](#sprint-planning) are
     - The [Product Backlog](#product-backlog)
-    - The latest product Increment
+    - The latest product [Increment](#increment)
     - Projected capacity of the [Development Team](#development-team) during the [Sprint](#sprint)
     - Past performance of the [Development Team](#development-team)
 
 * Only work planned for the first days of the [Sprint](#sprint) is required to be decomposed to units of one day or less.
-    - The [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated Increment
+    - The [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated [Increment](#increment)
 
 ### Daily Scrum
 
@@ -354,7 +354,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - If there are multiple [Scrum Teams](#scrum-team) working on the system or product release, the [Development Teams](#development-team) on all of the [Scrum Teams](#scrum-team) must mutually define the Definition of "Done."
 
 * Helps the [Scrum Team](#scrum-team)
-    - DoD is used to assess when work is complete on the product Increment
+    - DoD is used to assess when work is complete on the product [Increment](#increment)
     - Guides the [Development Team](#development-team) in knowing how many [Product Backlog](#product-backlog) items it can select during a [Sprint Planning](#sprint-planning)
     - DoD ensures artifact transparency
 
