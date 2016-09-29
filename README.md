@@ -27,6 +27,8 @@
     - [Sprint Retrospective](#sprint-retrospective)
 * [Definition of "Done"](#definition-of-done)
 
+[▲ Back to top](#table-of-contents)
+
 ## [Useful Links](#useful-links)
 
 * [The Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
@@ -39,6 +41,8 @@
     - [Real Mode](http://mlapshin.com/index.php/psm-quiz/real-mode/)
 
 These notes are heavily based off of Mikhail Lapshin's quiz.
+
+[▲ Back to top](#table-of-contents)
 
 ## [Assessment Details](#assessment-details)
 
@@ -62,7 +66,11 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * 80 questions and 60 minutes means **45 seconds** per question
 * The assessment is online and therefore 'open book'
 
+[▲ Back to top](#table-of-contents)
+
 ## [Scrum Theory](#scrum-theory)
+
+[▲ Back to top](#table-of-contents)
 
 ### [Scrum](#scrum)
 
@@ -96,6 +104,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation.
 
+[▲ Back to top](#table-of-contents)
+
 ### [Sprint](#sprint)
 
 * [Scrum](#scrum) does not require having aligned [Sprints](#sprint) for multiple teams.
@@ -116,6 +126,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Each [Increment](#increment) only contains "Done" functionality that could be released immediately
     - It is not normal to have a "hardening" [Sprint](#sprint) to remove technical debt and prepare the Product for upcoming release
 
+[▲ Back to top](#table-of-contents)
+
 ### [Sprint Goal](#sprint-goal)
 
 * Provides guidance to the [Development Team](#development-team) on why it is building the [Increment](#increment).
@@ -126,9 +138,13 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * If the [Sprint Goal](#sprint-goal) becomes obsolete the [Sprint](#sprint) may be cancelled.
 
+[▲ Back to top](#table-of-contents)
+
 ## [Scrum Artifacts](#scrum-artifacts)
 
 * [Scrum](#scrum) users must frequently inspect [Scrum Artifacts](#scrum-artifacts) and progress toward a [Sprint Goal](#sprint-goal) to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
+
+[▲ Back to top](#table-of-contents)
 
 ### [Sprint Backlog](#sprint-backlog)
 
@@ -145,6 +161,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * If an item in the [Sprint Backlog](#sprint-backlog) cannot be finished by the end of the [Sprint](#sprint) it should be renegotiated between the [Product Owner](#product-owner) and [Development Team](#development-team).
     - The [Sprint](#sprint) is not cancelled in this case
+
+[▲ Back to top](#table-of-contents)
 
 ### [Product Backlog](#product-backlog)
 
@@ -174,13 +192,19 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Ensuring that the [Product Backlog](#product-backlog) is visible, transparent, and clear to all, and shows what the [Scrum Team](#scrum-team) will work on next
     - Ensuring the [Development Team](#development-team) understands items in the [Product Backlog](#product-backlog) to the level needed
 
+[▲ Back to top](#table-of-contents)
+
 ### [Increment](#increment)
 
 * The [Increment](#increment) is the sum of all the [Product Backlog](#product-backlog) Items completed during the [Sprint](#sprint) *and* the value of the increments of all previous [Sprints](#sprint).
 
 * Only members of the [Development Team](#development-team) create the [Increment](#increment).
 
+[▲ Back to top](#table-of-contents)
+
 ## [Scrum Roles](#scrum-roles)
+
+[▲ Back to top](#table-of-contents)
 
 ### [Scrum Team](#scrum-team)
 
@@ -199,6 +223,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Flexibility
     - Creativity
     - Productivity
+
+[▲ Back to top](#table-of-contents)
 
 #### [Product Owner](#product-owner)
 
@@ -226,6 +252,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - The [Product Owner](#product-owner) is one person
     - They may represent the interests of a committee
 
+[▲ Back to top](#table-of-contents)
+
 #### [Development Team](#development-team)
 
 * The optimal [Development Team](#development-team) size is between 3 and 9 people.
@@ -252,6 +280,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Scrum](#scrum) recognizes no titles for [Development Team](#development-team) members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
     - [Scrum](#scrum) recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
     - Individual [Development Team](#development-team) members may have specialized skills and areas of focus, but accountability belongs to the [Development Team](#development-team) as a whole
+
+[▲ Back to top](#table-of-contents)
 
 #### [Scrum Master](#scrum-master)
 
@@ -286,6 +316,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Understanding and practicing agility
     - Facilitating [Scrum Events](#scrum-events) as requested or needed
 
+[▲ Back to top](#table-of-contents)
+
 ### [Non-Scrum Roles](#non-scrum-roles)
 
 * Only two meetings in which people outside the [Scrum Team](#scrum-team) are allowed to participate
@@ -294,12 +326,18 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Sprint Review](#sprint-review)
         + The [Product Owner](#product-owner) is responsible for inviting the [Key Stakeholders](#key-stakeholders) to the [Sprint Review](#sprint-review) meeting
 
+[▲ Back to top](#table-of-contents)
+
 #### [Key Stakeholders](#key-stakeholders)
 
 * Allowed to participate in the [Sprint Review](#sprint-review) meeting
     - Not allowed to participate in any other [Scrum Events](#scrum-events)
 
+[▲ Back to top](#table-of-contents)
+
 ## [Scrum Events](#scrum-events)
+
+[▲ Back to top](#table-of-contents)
 
 ### [Sprint Planning](#sprint-planning)
 
@@ -328,6 +366,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Only work planned for the first days of the [Sprint](#sprint) is required to be decomposed to units of one day or less.
     - The [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it indends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated [Increment](#increment)
 
+[▲ Back to top](#table-of-contents)
+
 ### [Daily Scrum](#daily-scrum)
 
 * Time-boxed to 15 minutes
@@ -345,6 +385,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - What will I do today to help the [Development Team](#development-team) meet the [Sprint Goal](#sprint-goal)?
     - Do I see any impediment that prevents me or the [Development Team](#development-team) from meeting the [Sprint Goal](#sprint-goal)?
 
+[▲ Back to top](#table-of-contents)
+
 ### [Sprint Review](#sprint-review)
 
 * Time-boxed to a 4 hour meeting for 1 month [Sprints](#sprint)
@@ -359,6 +401,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * The result of the [Sprint Review](#sprint-review) is a revised [Product Backlog](#product-backlog) that defines the probable [Product Backlog](#product-backlog) items for the next [Sprint](#sprint).
 
+[▲ Back to top](#table-of-contents)
+
 ### [Sprint Retrospective](#sprint-retrospective)
 
 * Time-boxed to a 3 hour meeting for 1 month [Sprints](#sprint)
@@ -372,6 +416,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Create a plan for implementing improvements to the way the [Scrum Team](#scrum-team) does its work
 
 * During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the [Definition of "Done"](#definition-of-done) as appropriate.
+
+[▲ Back to top](#table-of-contents)
 
 ## [Definition of "Done"](#definition-of-done)
 
@@ -395,3 +441,5 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Advice of the [Scrum Master](#scrum-master)
 
 * During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the [Definition of "Done"](#definition-of-done) as appropriate.
+
+[▲ Back to top](#table-of-contents)
