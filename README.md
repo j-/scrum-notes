@@ -137,7 +137,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Features of a [Product Backlog](#product-backlog)
     - Never complete
     - Evolves as the product and the environment in which it will be used evolves
-    - Dynamic -- constantly changes to identify what the product needs to be appropriate, competitive, and useful
+    - Dynamic — constantly changes to identify what the product needs to be appropriate, competitive, and useful
     - As long as a product exists, its [Product Backlog](#product-backlog) also exists
 
 * [Product Backlog](#product-backlog) management includes
