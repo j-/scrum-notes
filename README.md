@@ -68,8 +68,6 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ## [Scrum Theory](#scrum-theory)
 
-[▲ Back to top](#table-of-contents)
-
 ### [Scrum](#scrum)
 
 * Founded on *empiricism*
@@ -202,8 +200,6 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ## [Scrum Roles](#scrum-roles)
 
-[▲ Back to top](#table-of-contents)
-
 ### [Scrum Team](#scrum-team)
 
 * The [Scrum Team](#scrum-team) consists of
@@ -334,8 +330,6 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 [▲ Back to top](#table-of-contents)
 
 ## [Scrum Events](#scrum-events)
-
-[▲ Back to top](#table-of-contents)
 
 ### [Sprint Planning](#sprint-planning)
 
