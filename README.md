@@ -48,7 +48,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Events](#scrum-events)
     - [Artifacts](#scrum-artifacts)
 
-* Pillars that uphold Scrum
+* Pillars that uphold [Scrum](#scrum)
     - Transparency
     - Inspection
     - Adaption
@@ -63,15 +63,15 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Cone of Uncertainty shows how much is known about the Product over time
 
-* Each component within the Scrum framework serves a specific purpose and is essential to Scrum’s success and usage.
+* Each component within the [Scrum](#scrum) framework serves a specific purpose and is essential to [Scrum](#scrum)'s success and usage.
 
-* Scrum is not a process or a technique for building products. It is a framework within which you can employ various processes and techniques. It does not describe agile processes and techniques.
+* [Scrum](#scrum) is not a process or a technique for building products. It is a framework within which you can employ various processes and techniques. It does not describe agile processes and techniques.
 
 * If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation.
 
 ### Sprint
 
-* Scrum does not require having aligned [Sprints](#sprint) for multiple teams.
+* [Scrum](#scrum) does not require having aligned [Sprints](#sprint) for multiple teams.
 
 * Can be cancelled by *only* the [Product Owner](#product-owner)
     - Any completed and [Product Backlog](#product-backlog) Items are reviewed
@@ -101,7 +101,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ## Scrum Artifacts
 
-* Scrum users must frequently inspect [Scrum Artifacts](#scrum-artifacts) and progress toward a [Sprint Goal](#sprint-goal) to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
+* [Scrum](#scrum) users must frequently inspect [Scrum Artifacts](#scrum-artifacts) and progress toward a [Sprint Goal](#sprint-goal) to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
 
 ### Sprint Backlog
 
@@ -222,8 +222,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * [Development Teams](#development-team) have the following characteristics
     - They are self-organizing. No one (not even the [Scrum Master](#scrum-master)) tells the [Development Team](#development-team) how to turn [Product Backlog](#product-backlog) into [Increments](#increment) of potentially releasable functionality
     - [Development Teams](#development-team) are cross-functional, with all of the skills as a team necessary to create a product [Increment](#increment)
-    - Scrum recognizes no titles for [Development Team](#development-team) members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
-    - Scrum recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
+    - [Scrum](#scrum) recognizes no titles for [Development Team](#development-team) members other than Developer, regardless of the work being performed by the person; there are no exceptions to this rule
+    - [Scrum](#scrum) recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
     - Individual [Development Team](#development-team) members may have specialized skills and areas of focus, but accountability belongs to the [Development Team](#development-team) as a whole
 
 #### Scrum Master
@@ -236,9 +236,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * May be part of the [Development Team](#development-team) if they are also executing the work of the [Sprint Backlog](#sprint-backlog).
 
 * Serves the organization by
-    - Planning Scrum implementations within the organization
-    - Leading and coaching the organization in its Scrum adoption
-    - Working with other [Scrum Masters](#scrum-master) to increase the effectiveness of the application of Scrum in the organization
+    - Planning [Scrum](#scrum) implementations within the organization
+    - Leading and coaching the organization in its [Scrum](#scrum) adoption
+    - Working with other [Scrum Masters](#scrum-master) to increase the effectiveness of the application of [Scrum](#scrum) in the organization
 
 * Does the following regarding the [Daily Scrum](#daily-scrum)
     - Ensures that the [Development Team](#development-team) has the meeting, but the [Development Team](#development-team) is responsible for conducting the [Daily Scrum](#daily-scrum)
