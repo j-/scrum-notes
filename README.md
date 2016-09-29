@@ -177,7 +177,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Characteristics of the [Product Owner](#product-owner)
     - Product value maximizer
-    - Lead facilitator of key stakeholder involvement
+    - Lead facilitator of [Key Stakeholder](#key-stakeholders) involvement
     - Product marketplace expert
 
 * Is responsible for managing the [Product Backlog](#product-backlog)
@@ -265,7 +265,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Sprint Planning](#sprint-planning)
         + The [Development Team](#development-team) may invite other people to attend the [Sprint Planning](#sprint-planning) in order to provide technical or domain advice.
     - [Sprint Review](#sprint-review)
-        + The [Product Owner](#product-owner) is responsible for inviting the Key Stakeholders to the [Sprint Review](#sprint-review) meeting
+        + The [Product Owner](#product-owner) is responsible for inviting the [Key Stakeholders](#key-stakeholders) to the [Sprint Review](#sprint-review) meeting
 
 #### Key Stakeholders
 
@@ -328,7 +328,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
         + The [Product Owner](#product-owner)
         + The [Development Team](#development-team)
         + The [Scrum Master](#scrum-master)
-    - Key Stakeholders
+    - [Key Stakeholders](#key-stakeholders)
 
 * The result of the [Sprint Review](#sprint-review) is a revised [Product Backlog](#product-backlog) that defines the probable [Product Backlog](#product-backlog) items for the next [Sprint](#sprint).
 
