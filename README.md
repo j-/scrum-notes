@@ -344,27 +344,27 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Identify and order the major items that went well and potential improvements
     - Create a plan for implementing improvements to the way the [Scrum Team](#scrum-team) does its work
 
-* During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
+* During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the [Definition of "Done"](#definition-of-done) as appropriate.
 
 ## Definition of "Done"
 
-* The [Development Team](#development-team) is responsible for the creation of the Definition of "Done"
-    - If the Definition of "Done" for an increment is part of the conventions, standards or guidelines of the development organization, all [Scrum Teams](#scrum-team) must follow it as a minimum.
-    - If "done" for an increment is not a convention of the development organization, the [Development Team](#development-team) of the [Scrum Teams](#scrum-team) must define a Definition of "Done" appropriate for the product.
-    - If there are multiple [Scrum Teams](#scrum-team) working on the system or product release, the [Development Teams](#development-team) on all of the [Scrum Teams](#scrum-team) must mutually define the Definition of "Done."
+* The [Development Team](#development-team) is responsible for the creation of the [Definition of "Done"](#definition-of-done)
+    - If the [Definition of "Done"](#definition-of-done) for an increment is part of the conventions, standards or guidelines of the development organization, all [Scrum Teams](#scrum-team) must follow it as a minimum.
+    - If "done" for an increment is not a convention of the development organization, the [Development Team](#development-team) of the [Scrum Teams](#scrum-team) must define a [Definition of "Done"](#definition-of-done) appropriate for the product.
+    - If there are multiple [Scrum Teams](#scrum-team) working on the system or product release, the [Development Teams](#development-team) on all of the [Scrum Teams](#scrum-team) must mutually define the [Definition of "Done"](#definition-of-done)"
 
 * Helps the [Scrum Team](#scrum-team)
-    - DoD is used to assess when work is complete on the product [Increment](#increment)
+    - [Definition of "Done"](#definition-of-done) is used to assess when work is complete on the product [Increment](#increment)
     - Guides the [Development Team](#development-team) in knowing how many [Product Backlog](#product-backlog) items it can select during a [Sprint Planning](#sprint-planning)
-    - DoD ensures artifact transparency
+    - [Definition of "Done"](#definition-of-done) ensures artifact transparency
 
 * Accounts for
     - Conventions, standards and guidelines of the Organization
-    - Definition of "Done" of other [Scrum Teams](#scrum-team) working on the same Product
+    - [Definition of "Done"](#definition-of-done) of other [Scrum Teams](#scrum-team) working on the same Product
 
 * Does not account for
-    - Definition of "Done" of other [Scrum Teams](#scrum-team) working on other products
+    - [Definition of "Done"](#definition-of-done) of other [Scrum Teams](#scrum-team) working on other products
     - Experience of the [Product Owner](#product-owner)
     - Advice of the [Scrum Master](#scrum-master)
 
-* During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the definition of "Done" as appropriate.
+* During each [Sprint Retrospective](#sprint-retrospective), the [Scrum Team](#scrum-team) plans ways to increase product quality by adapting the [Definition of "Done"](#definition-of-done) as appropriate.
