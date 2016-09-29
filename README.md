@@ -27,8 +27,6 @@
     - [Sprint Retrospective](#sprint-retrospective)
 * [Definition of "Done"](#definition-of-done)
 
-[▲ Back to top](#table-of-contents)
-
 ## [Useful Links](#useful-links)
 
 * [The Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
