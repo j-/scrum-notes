@@ -334,7 +334,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### Sprint Retrospective
 
-* Time-boxed to a 4 hour meeting for 1 month [Sprints](#sprint)
+* Time-boxed to a 3 hour meeting for 1 month [Sprints](#sprint)
     - For shorter [Sprints](#sprint) the event is usually shorter
 
 * The [Sprint Retrospective](#sprint-retrospective) is an opportunity for the [Scrum Team](#scrum-team) to inspect itself and create a plan for improvements to be enacted during the next [Sprint](#sprint).
