@@ -101,7 +101,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ## Scrum Artifacts
 
-* Scrum users must frequently inspect Scrum artifacts and progress toward a [Sprint Goal](#sprint-goal) to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
+* Scrum users must frequently inspect [Scrum Artifacts](#scrum-artifacts) and progress toward a [Sprint Goal](#sprint-goal) to detect undesirable variances. Their inspection should not be so frequent that inspection gets in the way of the work. Inspections are most beneficial when diligently performed by skilled inspectors at the point of work.
 
 ### Sprint Backlog
 
@@ -257,7 +257,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Understanding product planning in an empirical environment
     - Ensuring the [Product Owner](#product-owner) knows how to arrange the [Product Backlog](#product-backlog) to maximize value
     - Understanding and practicing agility
-    - Facilitating Scrum events as requested or needed
+    - Facilitating [Scrum Events](#scrum-events) as requested or needed
 
 ### Non-Scrum Roles
 
@@ -270,7 +270,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 #### Key Stakeholders
 
 * Allowed to participate in the [Sprint Review](#sprint-review) meeting
-    - Not allowed to participate in any other Scrum events
+    - Not allowed to participate in any other [Scrum Events](#scrum-events)
 
 ## Scrum Events
 
