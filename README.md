@@ -84,7 +84,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Quality goals do not decrease
     - Scope may be clarified and re-negotiated between the [Product Owner](#product-owner) and [Development Team](#development-team) as more is learned
 
-* Development Teams deliver an [Increment](#increment) of Product functionality every [Sprint](#sprint)
+* [Development Teams](#development-team) deliver an [Increment](#increment) of Product functionality every [Sprint](#sprint)
     - This [Increment](#increment) is usable so a [Product Owner](#product-owner) may choose to immediately release it
     - Each [Increment](#increment) only contains "Done" functionality that could be released immediately
     - It is not normal to have a "hardening" [Sprint](#sprint) to remove technical debt and prepare the Product for upcoming release
