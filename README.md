@@ -53,7 +53,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Format: Multiple Choice, Multiple Answer and True/False
 * Difficulty: Intermediate
 * Language: English only
-* [PSM Subject Areas](https://www.scrum.org/Courses/Professional-Scrum-Master/* PSM-Subject-Areas)
+* [PSM Subject Areas](https://www.scrum.org/Courses/Professional-Scrum-Master/PSM-Subject-Areas)
 * Required course: None
 * Recommended courses: [Professional Scrum Foundations](https://www.scrum.org/Courses/Professional-Scrum-Foundations) or [Professional Scrum Master](https://www.scrum.org/Courses/Professional-Scrum-Master)
 * Practice Assessment: [Scrum Open](https://www.classmarker.com/online-test/start/?quiz=vek54a6ec10658ef)
