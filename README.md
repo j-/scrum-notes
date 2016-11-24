@@ -100,6 +100,11 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * If an inspector determines that one or more aspects of a process deviate outside acceptable limits, and that the resulting product will be unacceptable, the process or the material being processed must be adjusted. An adjustment must be made as soon as possible to minimize further deviation.
 
+* If an organization has decided to adopt [Scrum](#scrum) but management wants to change the terminology
+    - Management may feel less anxious, however
+    - Without a new vocabulary as a reminder of the change, very little change may actually happen, and
+    - The organization may not understand what has changed with [Scrum](#scrum) and the benefits of [Scrum](#scrum) may be lost
+
 [▲ Back to top](#table-of-contents)
 
 ### [Sprint](#sprint)
