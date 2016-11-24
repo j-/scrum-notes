@@ -282,7 +282,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * Responsible for tracking the total work remaining in the [Sprint Backlog](#sprint-backlog) and the likelihood of achieving the [Sprint Goal](#sprint-goal)
     - This responsibility is solely the [Development Team](#development-team)'s and not the [Product Owner](#product-owner)'s or [Scrum Master](#scrum-master)'s
 
-* Allowed to change the [Sprint Backlog](#sprint-backlog) during the sprint
+* Allowed to change the [Sprint Backlog](#sprint-backlog) during the [Sprint](#sprint)
     - Only the [Development Team](#development-team) can change its [Sprint Backlog](#sprint-backlog) during a [Sprint](#sprint). The [Sprint Backlog](#sprint-backlog) is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the [Sprint](#sprint), and it belongs solely to the [Development Team](#development-team).
 
 * Can be allowed to make changes to the [Product Backlog](#product-backlog) if delegated by the [Product Owner](#product-owner)
