@@ -279,7 +279,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * By the end of the [Sprint Planning](#sprint-planning), the [Development Team](#development-team) should be able to explain to the [Product Owner](#product-owner) and [Scrum Master](#scrum-master) how it intends to work as a self-organizing team to accomplish the [Sprint Goal](#sprint-goal) and create the anticipated [Increment](#increment).
 
-* Responsible for tracking the total work remaining in the [Sprint Backlog](#sprint-backlog) and the likelihood of achieving the [Sprint Goal](#sprint-goal).
+* Responsible for tracking the total work remaining in the [Sprint Backlog](#sprint-backlog) and the likelihood of achieving the [Sprint Goal](#sprint-goal)
+    - This responsibility is solely the [Development Team](#development-team)'s and not the [Product Owner](#product-owner)'s or [Scrum Master](#scrum-master)'s
 
 * Allowed to change the [Sprint Backlog](#sprint-backlog) during the sprint
     - Only the [Development Team](#development-team) can change its [Sprint Backlog](#sprint-backlog) during a [Sprint](#sprint). The [Sprint Backlog](#sprint-backlog) is a highly visible, real-time picture of the work that the [Development Team](#development-team) plans to accomplish during the [Sprint](#sprint), and it belongs solely to the [Development Team](#development-team).
