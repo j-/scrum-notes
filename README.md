@@ -164,7 +164,9 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * Created at the [Sprint Planning](#sprint-planning).
 
-* Belongs solely to the [Development Team](#development-team).
+* Belongs solely to the [Development Team](#development-team)
+    - [Development Team](#development-team) members are never exclusive owners of a [Sprint Backlog](#sprint-backlog) Item
+    - All [Sprint Backlog](#sprint-backlog) Items are owned by the entire [Development Team](#development-team), even though each one may be done by an individual [Development Team](#development-team) member
 
 * The [Development Team](#development-team) modifies the [Sprint Backlog](#sprint-backlog) throughout the [Sprint](#sprint)
     - The [Development Team](#development-team) may learn more about the work needed to achieve the [Sprint Goal](#sprint-goal)
