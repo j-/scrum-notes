@@ -134,6 +134,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 * [Development Teams](#development-team) deliver an [Increment](#increment) of Product functionality every [Sprint](#sprint)
     - This [Increment](#increment) is usable so a [Product Owner](#product-owner) may choose to immediately release it
     - Each [Increment](#increment) only contains "Done" functionality that could be released immediately
+    - It is not mandatory that the [Increment](#increment) be released to production at the end of each [Sprint](#sprint)
     - It is not normal to have a "hardening" [Sprint](#sprint) to remove technical debt and prepare the Product for upcoming release
 
 * The [Sprint](#sprint) is over when the time-box expires.
