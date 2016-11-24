@@ -296,6 +296,10 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - [Scrum](#scrum) recognizes no sub-teams in the [Development Team](#development-team), regardless of particular domains that need to be addressed like testing or business analysis; there are no exceptions to this rule
     - Individual [Development Team](#development-team) members may have specialized skills and areas of focus, but accountability belongs to the [Development Team](#development-team) as a whole
 
+* During the _first_ [Sprint](#sprint), the [Development Team](#development-team)
+    - Delivers an increment of releasable software
+    - Develops and delivers at least one piece of functionality
+
 [▲ Back to top](#table-of-contents)
 
 #### [Scrum Master](#scrum-master)
