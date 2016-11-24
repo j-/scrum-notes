@@ -109,6 +109,11 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 ### [Sprint](#sprint)
 
+* The length of a [Sprint](#sprint) should be
+    - No more than one month
+    - Short enough to keep the business risk acceptable by the [Product Owner](#product-owner)
+    - Short enough to be able to synchronize the development work with other business events
+
 * [Scrum](#scrum) does not require having aligned [Sprints](#sprint) for multiple teams.
 
 * Can be cancelled by *only* the [Product Owner](#product-owner)
