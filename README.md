@@ -285,6 +285,7 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
     - Helping the [Development Team](#development-team) to create high-value products
     - Coaching the [Development Team](#development-team) in self-organization and cross-functionality
     - Removing impediments to the [Development Team](#development-team)'s progress
+    - Facilitating [Development Team](#development-team) decisions
 
 * May be part of the [Development Team](#development-team) if they are also executing the work of the [Sprint Backlog](#sprint-backlog).
 
