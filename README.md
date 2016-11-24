@@ -116,6 +116,8 @@ From the [PSM I Assessment](http://www.scrum.org/Assessments/Professional-Scrum-
 
 * [Scrum](#scrum) does not require having aligned [Sprints](#sprint) for multiple teams.
 
+* If the [Development Team](#development-team) is not able to finish the complete forecast, the [Product Owner](#product-owner) and [Development Team](#development-team) should review and adjust the [Sprint](#sprint) work selected
+
 * Can be cancelled by *only* the [Product Owner](#product-owner)
     - Any completed and [Product Backlog](#product-backlog) Items are reviewed
     - If part of the work is releasable the [Product Owner](#product-owner) accepts it
